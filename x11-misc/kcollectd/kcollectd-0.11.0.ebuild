@@ -18,14 +18,14 @@ DEPEND="dev-libs/appstream
 		net-analyzer/rrdtool
 		dev-util/cmake
 		kde-frameworks/extra-cmake-modules
-		kde-frameworks/kdoctools
-		kde-frameworks/kconfig
-		kde-frameworks/kguiaddons
-		kde-frameworks/kio
-		kde-frameworks/kxmlgui
-		kde-frameworks/kiconthemes
-		kde-frameworks/kwidgetsaddons
-		kde-frameworks/kdelibs4support"
+		kde-frameworks/kdoctools:5
+		kde-frameworks/kconfig:5
+		kde-frameworks/kguiaddons:5
+		kde-frameworks/kio:5
+		kde-frameworks/kxmlgui:5
+		kde-frameworks/kiconthemes:5
+		kde-frameworks/kwidgetsaddons:5
+		kde-frameworks/kdelibs4support:5"
 RDEPEND="${DEPEND}"
 BDEPEND=""
 
